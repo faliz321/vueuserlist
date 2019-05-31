@@ -1,4 +1,7 @@
 # VueVuexVueRouterSPA
+
+
+
 # Teste de desenvolvimento para vaga de desenvolvedor web feito em Vue.js
 - Autor: Hugo Cesar Alonso Generoso
 
