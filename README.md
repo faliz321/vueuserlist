@@ -12,9 +12,9 @@ Teste de desenvolvimento para vaga de desenvolvedor web feito em Vue.js
 Clone este repositório na pasta desejada.
 Acesse a pasta do projeto clonado e execute os comandos no terminal
 ```sh
-$ cd vueuserlist
-$ npm install
-$ npm run dev
+ cd vueuserlist
+ npm install
+ npm run dev
 ```
 O projeto já deverá estar sendo executado no endereço descrito no console.
 
