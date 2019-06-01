@@ -16,6 +16,6 @@ Acesse a pasta do projeto clonado e execute os comandos no terminal
  npm install
  npm run dev
 ```
-O projeto já deverá estar sendo executado no endereço descrito no console.
+O projeto já será executado no endereço descrito no console.
 
 **Obrigado ao pessoal da WDG pela oportunidade de participar da equipe :)**
